@@ -1,16 +1,16 @@
-### Hi there 👋
+### Salih - Frontend Developer 👋
 
-<!--
-**zorro-ftw/zorro-ftw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi,
+I'm Salih I'm a mechanical engineer with 5.5 years of experience, who decided to respond to his annoying inner voice and switch careers. I have successfully graduated 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/). For the last six months, I had the chance to work on variety of technologies on a daily basis, including but not limited to:
+* HTML
+* CSS
+* Javascript
+* Typescript
+* React
+* Next.js
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this GitHub profile, you will find some of my projects that cover the topics during the course.
+* 💻 Currently looking for: Junior Frontend Developer position
+* 📫 You can reach me via: [LinkedIn](https://www.linkedin.com/in/zorersalih/) | [Email](mailto:zorer.salih@gmail.com)
+* 📍 Current Location: Ankara, Türkiye
+* 🌐 Available for: Fully Remote | Relocation | On-site (Ankara)
