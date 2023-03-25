@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=6000&color=255FA9&width=435&height=40&lines=Salih+-+Frontend+Developer+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=6000&color=255FA9&vCenter=true&width=435&height=40&lines=Salih+-+Frontend+Developer+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 Hi, I'm Salih. A mechanical engineer with 5.5 years of experience, who decided to respond to his annoying inner voice and switch careers. I have successfully graduated 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/). For the last six months, I had the chance to work on variety of technologies on a daily basis, including but not limited to:
 * HTML
