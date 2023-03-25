@@ -17,4 +17,6 @@ In this GitHub profile, you will find some of my projects that cover the topics 
 * 📍 Current Location: Ankara, Türkiye
 * 🌐 Available for: Fully Remote | Relocation | On-site (Ankara)
 
+### My GitHub Stats 👇
+
 [![Salih's GitHub stats](https://github-readme-stats.vercel.app/api?username=zorro-ftw&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
