@@ -4,6 +4,7 @@ Hi, I'm Salih. A mechanical engineer with 5.5 years of experience, who decided t
 * HTML
 * CSS
 * SASS
+* Tailwind CSS
 * Javascript
 * Typescript
 * React
