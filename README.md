@@ -14,7 +14,7 @@
 
 ###
 
-Hi, I'm Salih. A former mechanical engineer with near 6 years of experience, who decided to respond to his annoying inner voice and switch careers. I have successfully graduated from 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/) with first place. Now I'm working as a Frontend Developer in Jagaad.
+Hi, I'm Salih. A former mechanical engineer with near 6 years of experience, who decided to respond to his annoying inner voice and switch careers. I have successfully graduated from 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/) with first place. Now I'm working as a Frontend Developer in Jagaad for almost a year.
 
 * React
 * Next.js
