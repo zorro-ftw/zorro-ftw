@@ -9,6 +9,13 @@
 <br />
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=zorro-ftw&theme=radical&hide_border=true" height="150" alt="streak" />
+</div>
+
+
+<br />
+
+<div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fzorro-ftw&countColor=%23263759" />
 </div>
 
