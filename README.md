@@ -1,38 +1,26 @@
 <div align="center">
   <img height="30" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=6500&color=255FA9&vCenter=true&width=435&height=30&lines=Salih+-+Frontend+Developer+%F0%9F%91%8B"  />
 </div>
-<br/>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zorro-ftw&hide_title=false&card_width=320&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=zorro-ftw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=dart" height="150" alt="languages graph"  />
 </div>
-<br />
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zorro-ftw&theme=radical&hide_border=true" height="150" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=zorro-ftw&theme=radical&hide_border=true" width="450" alt="streak" />
 </div>
-
-
-<br />
-
+<br/>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fzorro-ftw&countColor=%23263759" />
 </div>
-
-###
-
+<br/>
 Hi, I'm Salih. A former mechanical engineer with near 6 years of experience, who decided to respond to his annoying inner voice and switch careers. I have successfully graduated from 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/) with first place. Now I've been working as a Frontend Developer in Jagaad for almost a year.
 
-* React
-* Next.js
-* Vue.js
-* Nuxt.js
+* React, Next.js
+* Vue.js, Nuxt.js
 * HTML
-* CSS
-* SASS
-* Tailwind CSS
-* Javascript
-* Typescript
+* CSS, Scss, Tailwind
+* Javascript, Typescript
+* GraphQL, REST Api
 * Redux, Redux toolkit, Redux thunk
 * Docker
 * Storybook
