@@ -14,7 +14,7 @@
 </div>
 <br/>
 
-Hi, I'm Salih. A former mechanical engineer with near 6 years of experience, who decided to respond to his annoying inner voice and switch careers. I have successfully graduated from 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/) with first place. Now I've been working as a Frontend Developer in Jagaad for almost a year.
+Hi, I'm Salih. A former mechanical engineer with near 6 years of experience, who decided to respond to his annoying inner voice and switch careers. I have successfully graduated from 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/) with first place. Worked as a Frontend Dev at Jagaad for a year and now I'm a Frontend Dev at Datazone.
 
 * React, Next.js
 * Vue.js, Nuxt.js
@@ -28,7 +28,7 @@ Hi, I'm Salih. A former mechanical engineer with near 6 years of experience, who
 
 In this GitHub profile, you will find some of my projects that were built by me during the course or my newfound developer career.
 
-* 💻 Currently available for: Mid Frontend Developer position
+* 💻 Currently available for: Mid/Mid-Senior Frontend Developer position
 * 📫 You can reach me via: [LinkedIn](https://www.linkedin.com/in/zorersalih/) | [Email](mailto:zorer.salih@gmail.com)
 * 📍 Current Location: Ankara, Türkiye
 * 🌐 Available for: Fully Remote | Relocation | On-site (Ankara)
