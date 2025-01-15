@@ -14,7 +14,7 @@
 </div>
 <br/>
 
-Hi, I'm Salih. A former mechanical engineer with near 6 years of experience, who decided to respond to his annoying inner voice and switch careers. I have successfully graduated from 24 weeks Frontend Course of [Jagaad Academy](https://academy.jagaad.com/) with first place. Worked as a Frontend Dev at Jagaad for a year and now I'm a Frontend Dev at Datazone.
+Hi, I'm Salih, a frontend engineer with over 2 years of experience. Currently working for Datazone and my general go-to stack is the one below.
 
 * React, Next.js
 * Vue.js, Nuxt.js
