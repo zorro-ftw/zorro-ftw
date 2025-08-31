@@ -14,7 +14,7 @@
 </div>
 <br/>
 
-Hi, I'm Salih, a frontend engineer with over 2 years of experience. Currently working for Datazone and my general go-to stack is the one below.
+Hi, I'm Salih, a frontend engineer with over 2 years of experience. Currently working for Zalando and my general go-to stack is the one below.
 
 * React, Next.js
 * Vue.js, Nuxt.js
@@ -28,10 +28,10 @@ Hi, I'm Salih, a frontend engineer with over 2 years of experience. Currently wo
 
 In this GitHub profile, you will find some of my projects that were built by me during the course or my newfound developer career.
 
-* 💻 Currently available for: Mid/Mid-Senior Frontend Developer position
+* 💻 Currently available for: Senior Frontend Developer position
 * 📫 You can reach me via: [LinkedIn](https://www.linkedin.com/in/zorersalih/) | [Email](mailto:zorer.salih@gmail.com)
-* 📍 Current Location: Ankara, Türkiye
-* 🌐 Available for: Fully Remote | Relocation | On-site (Ankara)
+* 📍 Current Location: Berlin, Germany
+* 🌐 Available for: Fully Remote | Relocation | On-site (Berlin)
 
 ###
 
